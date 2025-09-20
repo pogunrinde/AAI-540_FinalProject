@@ -1,6 +1,15 @@
 {
   "rows": 808,
   "cols": 7,
+  "columns": [
+    "Age",
+    "SystolicBP",
+    "DiastolicBP",
+    "BS",
+    "BodyTemp",
+    "HeartRate",
+    "RiskLevel"
+  ],
   "dtypes": {
     "Age": "int64",
     "SystolicBP": "int64",
@@ -10,7 +19,7 @@
     "HeartRate": "int64",
     "RiskLevel": "object"
   },
-  "missing": {
+  "missing_counts": {
     "Age": 0,
     "SystolicBP": 0,
     "DiastolicBP": 0,

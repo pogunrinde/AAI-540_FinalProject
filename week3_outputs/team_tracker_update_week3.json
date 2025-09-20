@@ -1,0 +1,41 @@
+{
+  "run_id": "20250920-160407",
+  "s3_prefix": "s3://sagemaker-us-east-1-590183777926/aai540/maternal-risk/week3/20250920-160407",
+  "dataset": {
+    "rows": 808,
+    "cols": 7,
+    "class_counts": {
+      "low risk": 478,
+      "high risk": 330
+    },
+    "dtypes": {
+      "Age": "int64",
+      "SystolicBP": "int64",
+      "DiastolicBP": "int64",
+      "BS": "float64",
+      "BodyTemp": "float64",
+      "HeartRate": "int64",
+      "RiskLevel": "object"
+    },
+    "missing": {
+      "Age": 0,
+      "SystolicBP": 0,
+      "DiastolicBP": 0,
+      "BS": 0,
+      "BodyTemp": 0,
+      "HeartRate": 0,
+      "RiskLevel": 0
+    }
+  },
+  "splits": {
+    "train_rows": 322,
+    "val_rows": 81,
+    "test_rows": 81,
+    "prod_rows": 324
+  },
+  "feature_store_groups": [
+    "mhr-train-fg-20250920-160407",
+    "mhr-val-fg-20250920-160407",
+    "mhr-batch-fg-20250920-160407"
+  ]
+}
