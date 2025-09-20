@@ -1,0 +1,26 @@
+{
+  "rows": 808,
+  "cols": 7,
+  "dtypes": {
+    "Age": "int64",
+    "SystolicBP": "int64",
+    "DiastolicBP": "int64",
+    "BS": "float64",
+    "BodyTemp": "float64",
+    "HeartRate": "int64",
+    "RiskLevel": "object"
+  },
+  "missing": {
+    "Age": 0,
+    "SystolicBP": 0,
+    "DiastolicBP": 0,
+    "BS": 0,
+    "BodyTemp": 0,
+    "HeartRate": 0,
+    "RiskLevel": 0
+  },
+  "class_counts": {
+    "low risk": 478,
+    "high risk": 330
+  }
+}
