@@ -1,6 +1,6 @@
-# Week 3 Tracker — Maternal Health Risk (RUN: 20250925-102647)
+# Week 3 Tracker — Maternal Health Risk (RUN: 20250930-205143)
 
-**S3 prefix:** s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week3/20250925-102647
+**S3 prefix:** s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week3/20250930-205143
 
 ## Dataset
 - Rows: 808 | Cols: 7
@@ -13,6 +13,6 @@
 - Prod:  324 (~40%)
 
 ## Feature Store (offline)
-- mhr-train-fg-20250925-102647
-- mhr-val-fg-20250925-102647
-- mhr-batch-fg-20250925-102647
+- mhr-train-fg-20250930-205143
+- mhr-val-fg-20250930-205143
+- mhr-batch-fg-20250930-205143
