@@ -1,9 +1,9 @@
 {
   "week": 5,
-  "run": "aai540/maternal-risk/week5/20251001-012300",
+  "run": "aai540/maternal-risk/week5/20251004-130329",
   "data_quality": {
-    "statistics": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251001-012300/monitoring/data-quality/statistics.json",
-    "constraints": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251001-012300/monitoring/data-quality/constraints.json",
+    "statistics": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/monitoring/data-quality/statistics.json",
+    "constraints": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/monitoring/data-quality/constraints.json",
     "violations": "N/A"
   },
   "model_quality": {
