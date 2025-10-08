@@ -1,6 +1,6 @@
 {
-  "run_id": "20251004-124606",
-  "s3_prefix": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week3/20251004-124606",
+  "run_id": "20251007-221711",
+  "s3_prefix": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week3/20251007-221711",
   "dataset": {
     "rows": 808,
     "cols": 7,
@@ -34,8 +34,8 @@
     "prod_rows": 324
   },
   "feature_store_groups": [
-    "mhr-train-fg-20251004-124606",
-    "mhr-val-fg-20251004-124606",
-    "mhr-batch-fg-20251004-124606"
+    "mhr-train-fg-20251007-221711",
+    "mhr-val-fg-20251007-221711",
+    "mhr-batch-fg-20251007-221711"
   ]
 }

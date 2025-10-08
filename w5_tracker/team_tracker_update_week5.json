@@ -1,21 +1,21 @@
 {
   "week": 5,
-  "run_id": "20251004-130329",
-  "week4_prefix": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835",
-  "week5_prefix": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329",
-  "endpoint": "mhr-xgb-w5-20251004-130329",
-  "datacapture_s3": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/datacapture",
+  "run_id": "20251007-224036",
+  "week4_prefix": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946",
+  "week5_prefix": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week5/20251007-224036",
+  "endpoint": "mhr-xgb-w5-20251007-224036",
+  "datacapture_s3": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week5/20251007-224036/datacapture",
   "schedules": {
-    "data_quality": "mhr-dq-sched-20251004-130329",
-    "model_quality": "mhr-mq-sched-20251004-130329"
+    "data_quality": "mhr-dq-sched-20251007-224036",
+    "model_quality": "mhr-mq-sched-20251007-224036"
   },
   "outputs": {
-    "data_quality": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/monitoring/data-quality",
-    "model_quality": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/monitoring/model-quality",
-    "ground_truth": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week5/20251004-130329/ground-truth/val_labels.csv"
+    "data_quality": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week5/20251007-224036/monitoring/data-quality",
+    "model_quality": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week5/20251007-224036/monitoring/model-quality",
+    "ground_truth": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week5/20251007-224036/ground-truth/val_labels.csv"
   },
   "cloudwatch": {
-    "alarms_prefix": "MHR-W5-20251004-130329",
-    "dashboard": "MHR-W5-Dashboard-20251004-130329"
+    "alarms_prefix": "MHR-W5-20251007-224036",
+    "dashboard": "MHR-W5-Dashboard-20251007-224036"
   }
 }

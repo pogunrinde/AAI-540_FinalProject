@@ -1,8 +1,8 @@
 {
   "week": "4",
-  "run_id": "20251004-124835",
-  "week3_prefix": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week3/20251004-124606",
-  "week4_prefix": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835",
+  "run_id": "20251007-221946",
+  "week3_prefix": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week3/20251007-221711",
+  "week4_prefix": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946",
   "benchmark": {
     "accuracy": 0.7654320987654321,
     "precision": 0.71875,
@@ -18,10 +18,10 @@
     "roc_auc": 0.999368686868687
   },
   "artifacts": {
-    "metrics_json": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835/metrics_compare.json",
-    "baseline_cm": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835/baseline_cm.png",
-    "xgb_cm": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835/xgb_cm.png",
-    "model_artifact": "s3://sagemaker-us-east-1-533267301342/sagemaker-xgboost-2025-10-04-12-52-09-009/output/model.tar.gz",
-    "batch_output": "s3://sagemaker-us-east-1-533267301342/aai540/maternal-risk/week4/20251004-124835/batch/outputs"
+    "metrics_json": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946/metrics_compare.json",
+    "baseline_cm": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946/baseline_cm.png",
+    "xgb_cm": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946/xgb_cm.png",
+    "model_artifact": "s3://sagemaker-us-east-1-849121223812/sagemaker-xgboost-2025-10-07-22-24-35-764/output/model.tar.gz",
+    "batch_output": "s3://sagemaker-us-east-1-849121223812/aai540/maternal-risk/week4/20251007-221946/batch/outputs"
   }
 }
